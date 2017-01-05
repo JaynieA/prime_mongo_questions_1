@@ -1,8 +1,6 @@
-# Prime Mongo Shell Peer Challenge
+# Prime Mongo Shell Solo Challenge
 
-Now that you've learned some of the basics of querying MongoDB via the mongo shell, use that information to query a collection of bios. Remember to switch off with your partner half-way through this exercise.
-
-Check out these docs for more advanced find queries https://docs.mongodb.org/getting-started/shell/query/#specify-conditions-with-operators
+Now that I have been introduced to some of the basics of querying MongoDB via the mongo shell, I will use that information to query a collection of bios.
 
 ## Instructions
 
